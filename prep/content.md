@@ -25,8 +25,9 @@ Topic: **X**
   * [Logo](https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
 
 ##### Hardware
-* Tech
-  * Detail
+* Camera
+  * A camera can be used during a tour, as you can capture memories and take photos with it. Which that is one of the main factors of touring, memory.
+  * 
   * [Logo](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Translate_logo.max-1440x810.png)
 
 ## Part B: possible future technology
