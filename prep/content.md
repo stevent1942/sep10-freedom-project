@@ -40,6 +40,7 @@ Topic: **X**
   * Both a phone and camera requires charging to use, making a battery insanely useful. Other hardwares such as flashlights also use batteries allowing you to have multiple uses for a battery.
   * Batteries are relatively cheap, allowing you to stock up on them incase you ever need them and ou won't need to worry much about its cost.
   * [Picture of a Battery](https://www.harborfreight.com/media/catalog/product/cache/87bb6fe55719635edbf9f739e6fd104e/6/2/62586_W3.jpg?auto=webp&width=750&height=750&canvas=750,750&fit=bounds)
+* 
 
 
 
