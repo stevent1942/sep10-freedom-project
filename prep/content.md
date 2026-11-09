@@ -30,6 +30,16 @@ Topic: **X**
   * A camera is portable and doesn't use as much battery as a phone as well as having clearer pictures.
   * A good, reliable and affordable camera costs ~$750-$1000, but a oustanding one may even cost a couple thousands.
   * [Picture of a Camera](https://www.bhphotovideo.com/cdn-cgi/image/fit=scale-down,width=500,quality=95/https://www.bhphotovideo.com/images/images500x500/canon_3380c132_eos_rp_mirrorless_digital_1603796831_1558260.jpg)
+* Phone
+  * A phone has many uses, with one being a camera. If you're inable to afford a camera, you could use your phone as a second option.
+  * A phone can also be used to check the weather, the time, the location you're in, and a flashlight. A phone has so many uses that it should be a MUST to bring anywhere, not just for touring.
+  * Phones may vary in prices depending on the model, but you don't need the latest model to access all of the features, an old phone works fine as well.
+  * [Picture of a Phone](https://cdn.thewirecutter.com/wp-content/media/2026/03/BEST-ANDROID-PHONES-2048px-9716.jpg?width=2048&quality=60&crop=2048:2048&auto=webp)
+* Camera
+  * A camera can be used during a tour, as you can capture memories and take photos with it. Which that is one of the main factors of touring, memory.
+  * A camera is portable and doesn't use as much battery as a phone as well as having clearer pictures.
+  * A good, reliable and affordable camera costs ~$750-$1000, but a oustanding one may even cost a couple thousands.
+  * [Picture of a Camera](https://cdn.thewirecutter.com/wp-content/media/2026/03/BEST-ANDROID-PHONES-2048px-9716.jpg?width=2048&quality=60&crop=2048:2048&auto=webp)
 
 ## Part B: possible future technology
 * Idea
