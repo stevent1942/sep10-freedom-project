@@ -35,12 +35,11 @@ Topic: **X**
   * A phone can also be used to check the weather, the time, the location you're in, and a flashlight. A phone has so many uses that it should be a MUST to bring anywhere, not just for touring.
   * Phones may vary in prices depending on the model, but you don't need the latest model to access all of the features, an old phone works fine as well.
   * [Picture of a Phone](https://cdn.thewirecutter.com/wp-content/media/2026/03/BEST-ANDROID-PHONES-2048px-9716.jpg?width=2048&quality=60&crop=2048:2048&auto=webp)
-* Camera
-  * A camera can be used during a tour, as you can capture memories and take photos with it. Which that is one of the main factors of touring, memory.
-  * A camera is portable and doesn't use as much battery as a phone as well as having clearer pictures.
-  * A good, reliable and affordable camera costs ~$750-$1000, but a oustanding one may even cost a couple thousands.
-  * [Picture of a Camera](https://cdn.thewirecutter.com/wp-content/media/2026/03/BEST-ANDROID-PHONES-2048px-9716.jpg?width=2048&quality=60&crop=2048:2048&auto=webp)
-
+* Battery
+  * Most thng used for touring has a battery lifespan or requires charging. A battery and a backup battery ensures you'll never run out of battery wherever you go, incase you get lost anywhere or one of your hardwares died.
+  * Both a phone and camera requires charging to use, making a battery insanely useful. Other hardwares such as flashlights also use batteries allowing you to have multiple uses for a battery.
+  * Batteries are relatively cheap, allowing you to stock up on them incase you ever need them and ou won't need to worry much about its cost.
+  * [Picture of a Battery](https://www.harborfreight.com/media/catalog/product/cache/87bb6fe55719635edbf9f739e6fd104e/6/2/62586_W3.jpg?auto=webp&width=750&height=750&canvas=750,750&fit=bounds)
 ## Part B: possible future technology
 * Idea
   * Detail
