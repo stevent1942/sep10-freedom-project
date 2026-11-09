@@ -29,7 +29,7 @@ Topic: **X**
   * A camera can be used during a tour, as you can capture memories and take photos with it. Which that is one of the main factors of touring, memory.
   * A camera is portable and doesn't use as much battery as a phone as well as having clearer pictures.
   * A good, reliable and affordable camera costs ~$750-$1000, but a oustanding one may even cost a couple thousands.
-  * [Picture of a Camera]([https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Translate_logo.max-1440x810.png](https://www.bhphotovideo.com/cdn-cgi/image/fit=scale-down,width=500,quality=95/https://www.bhphotovideo.com/images/images500x500/canon_3380c132_eos_rp_mirrorless_digital_1603796831_1558260.jpg))
+  * [Picture of a Camera](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Translate_logo.max-1440x810.png](https://www.bhphotovideo.com/cdn-cgi/image/fit=scale-down,width=500,quality=95/https://www.bhphotovideo.com/images/images500x500/canon_3380c132_eos_rp_mirrorless_digital_1603796831_1558260.jpg)
 
 ## Part B: possible future technology
 * Idea
