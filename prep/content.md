@@ -56,9 +56,9 @@ Topic: **X**
   * [Picture of a Battery](https://www.harborfreight.com/media/catalog/product/cache/87bb6fe55719635edbf9f739e6fd104e/6/2/62586_W3.jpg?auto=webp&width=750&height=750&canvas=750,750&fit=bounds)
     
  * Plane Tickets
-  * Allows you to board a plane to travel extremly long distances and overseas.
-  * Limited to one use.
-  * [Picture of a Plane Ticket](https://as2.ftcdn.net/v2/jpg/02/18/72/85/1000_F_218728596_R4GhkHYOEESIVThGKxoJGyi5F6dMNv0f.jpg)
+   * Allows you to board a plane to travel extremly long distances and overseas.
+   * Limited to one use.
+   * [Picture of a Plane Ticket](https://as2.ftcdn.net/v2/jpg/02/18/72/85/1000_F_218728596_R4GhkHYOEESIVThGKxoJGyi5F6dMNv0f.jpg)
 
 
 
