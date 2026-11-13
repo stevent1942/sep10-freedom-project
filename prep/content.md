@@ -2,20 +2,24 @@
 Topic: **X**
 
 ## Overview/Introduction/Context
-* Text
-* Text
+* Touring allows people to see and view wonders of the world. INstead of staying in one place their entire life, they can explore and tour across the world seeing many different and interesting things.
+* Touring is traveling around the world to see and discover new things that can't or wouldn't be possible in the area you live.
+* Technology made touring even easier and faster to tour places you would want to go to. Apps and gadgets help people as a slice of life improvement for touring, providing support with translations, movement and capturing memories (pictures).
+
+* Easily Accessible Things
+ * Google maps, free to use and download. Only drawback is you require a mobile device.
+ * Google translate, free to use and download. Only drawback is you require a mobile device.
+ * Youtube, can be used before going on a trip at your home to have a quick sneak peek and view of what or where you're touring is going to be like. Can also be used with a mobile device for quick tutorials.
+
+* Moderately Accessibility (Low-ish Cost and widely owned)
+ *  Phone, they have many and multiple uses, such as using apps or the camera. They can be used in most situations and give you access to a lot of stuff like youtube and google. They are globally popular and cheap depending on the model.
+ *  Battery, they are relatively cheap depending on the size and can be used to power and charge many things, including your phone.
+
+* Lower Accessibility (Higher cost and Harder to get)
+  * Cameras, even the cheapest ones can cost a fortune, some may even cost half the amount of a car. But the pictures, moments, memories they capture are higher quality than what you can get with a regular phone camera.
+  * Plane tickets, their costs vary on where you want to go to, so they can be extremely expensive. They are also a one time use making it hard for you to continue traveling, as you need 1 to and back from where you're going.
 
 ## Part A: existing technology
-
-
-
-
-
-
-
-
-
-
 
 ##### Software
 * Google Translate
@@ -50,6 +54,11 @@ Topic: **X**
   * Both a phone and camera requires charging to use, making a battery insanely useful. Other hardwares such as flashlights also use batteries allowing you to have multiple uses for a battery.
   * Batteries are relatively cheap, allowing you to stock up on them incase you ever need them and ou won't need to worry much about its cost.
   * [Picture of a Battery](https://www.harborfreight.com/media/catalog/product/cache/87bb6fe55719635edbf9f739e6fd104e/6/2/62586_W3.jpg?auto=webp&width=750&height=750&canvas=750,750&fit=bounds)
+    
+ * Plane Tickets
+  * Allows you to board a plane to travel extremly long distances and overseas.
+  * Limited to one use.
+  * [Picture of a Plane Ticket](https://as2.ftcdn.net/v2/jpg/02/18/72/85/1000_F_218728596_R4GhkHYOEESIVThGKxoJGyi5F6dMNv0f.jpg)
 
 
 
