@@ -2,7 +2,7 @@
 ##### 10/24/26
 
 ## Choice
-I chose Touring because I want to explore the world and its wonder. It's interesting to me, as different parts of the world has very diofferent scenery and living style as well as culture and traditions. Touring allows you to experience and see all of them.
+I chose Touring because I want to explore the world and its wonder. It's interesting to me, as different parts of the world has very different scenery and living style as well as culture and traditions. Touring allows you to experience and see all of them.
 
 ## Links
 The sites that I will be using are [Britannica](https://www.britannica.com/topic/tourism), [UN Tourism](https://www.untourism.int/) and potentially more if I discover more.
