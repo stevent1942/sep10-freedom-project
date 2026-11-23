@@ -63,5 +63,7 @@ Topic: **X**
 
 
 ## Part B: possible future technology
-* Idea
-  * Detail
+* Teleporter
+  * Allows you to teleport between other teleporters
+  * Instant long distant travel
+  * Cheaper than planes and a massively shorter amount of time consumption
