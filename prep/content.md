@@ -7,13 +7,13 @@ Topic: **X**
 * Technology made touring even easier and faster to tour places you would want to go to. Apps and gadgets help people as a slice of life improvement for touring, providing support with translations, movement and capturing memories (pictures).
 
 * Easily Accessible Things
- * Google maps, free to use and download. Only drawback is you require a mobile device.
- * Google translate, free to use and download. Only drawback is you require a mobile device.
- * Youtube, can be used before going on a trip at your home to have a quick sneak peek and view of what or where you're touring is going to be like. Can also be used with a mobile device for quick tutorials.
+  * Google maps, free to use and download. Only drawback is you require a mobile device.
+  * Google translate, free to use and download. Only drawback is you require a mobile device.
+  * Youtube, can be used before going on a trip at your home to have a quick sneak peek and view of what or where you're touring is going to be like. Can also be used with a mobile device for quick tutorials.
 
 * Moderately Accessibility (Low-ish Cost and widely owned)
- *  Phone, they have many and multiple uses, such as using apps or the camera. They can be used in most situations and give you access to a lot of stuff like youtube and google. They are globally popular and cheap depending on the model.
- *  Battery, they are relatively cheap depending on the size and can be used to power and charge many things, including your phone.
+  *  Phone, they have many and multiple uses, such as using apps or the camera. They can be used in most situations and give you access to a lot of stuff like youtube and google. They are globally popular and cheap depending on the model.
+  *  Battery, they are relatively cheap depending on the size and can be used to power and charge many things, including your phone.
 
 * Lower Accessibility (Higher cost and Harder to get)
   * Cameras, even the cheapest ones can cost a fortune, some may even cost half the amount of a car. But the pictures, moments, memories they capture are higher quality than what you can get with a regular phone camera.
